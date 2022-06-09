@@ -12,4 +12,4 @@
  
 ##  Инструменты
 
-`python` `SQLAlchemy` `postgreSQL` `dash` `Tableau` `построение дашбордов` `продуктовые метрики
+`python` `SQLAlchemy` `postgreSQL` `dash` `Tableau` `построение дашбордов` `продуктовые метрики`
