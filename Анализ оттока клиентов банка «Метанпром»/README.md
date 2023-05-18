@@ -16,6 +16,6 @@
 `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `машинное обучение` `сегментация` `статистический анализ`
 
 ## Материалы
-Презентация: https://disk.yandex.ru/i/GQWmOAB843sj6g
+Презентация: [тык](https://disk.yandex.ru/i/GQWmOAB843sj6g)
 
-Дашборд: https://public.tableau.com/app/profile/pochemuchto/viz/project_bank_16823791133080/Dashboard1
+Дашборд: [тык](https://public.tableau.com/app/profile/pochemuchto/viz/project_bank_16823791133080/Dashboard1)
